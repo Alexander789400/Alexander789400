@@ -85,9 +85,7 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Alexander789400&theme=tokyonight&hide_border=true" height="180"/>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Alexander789400&theme=tokyo-night&hide_border=true" />
-</p>
+
 
 ## 🏆 Certifications  
 
