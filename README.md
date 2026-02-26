@@ -1,203 +1,127 @@
-## Hi there ! 
-### Hi, I'm Alexander Roy
+<h1 align="center">🚀 Alexander Roy | AI Engineer & Data Scientist</h1>
 
-Aspiring Data Scientist | AI Engineer | Computer Vision & GenAI Enthusiast
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=4000&color=00F7FF&center=true&vCenter=true&width=900&lines=Aspiring+AI+Engineer;Data+Science+Enthusiast;Computer+Vision+Developer;Generative+AI+Builder;Building+Scalable+AI+Systems" />
+</p>
 
-Self-motivated and detail-oriented AI enthusiast with hands-on experience in building end-to-end AI applications, multimodal systems, and real-time computer vision solutions. Passionate about developing scalable, production-style AI systems and continuously improving technical expertise.
+---
 
-Currently seeking Entry-Level AI / Data Science opportunities to contribute to impactful projects and grow professionally.
+## 👨‍💻 About Me  
 
-#### Technical Skills :
+💡 Self-motivated and detail-oriented **AI Engineer / Data Scientist** passionate about building scalable, real-world AI systems.  
+⚡ Experienced in developing **end-to-end AI applications**, multimodal RAG systems, and real-time computer vision solutions.  
+🎯 Seeking **Entry-Level AI / Data Science opportunities** to contribute to impactful projects and grow professionally.  
 
-Programming & Databases :
+---
 
-Python
+## 🛠 Tech Stack  
 
-MySQL
+### 🚀 Programming & Databases  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 
-SQLite
+### 📊 Data Science & Machine Learning  
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch)
 
-Libraries & Frameworks :
+### 👁 Computer Vision  
+![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=opencv)
+YOLOv8 • Pose Estimation • Real-time Tracking  
 
-Pandas, NumPy
+### 🤖 AI / Generative AI  
+RAG • AI Agents • NLP • Transformers • LLM Failover Architecture • Multimodal AI  
 
-Matplotlib, Seaborn
+### 🌐 Web & Deployment  
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit)
+![Gradio](https://img.shields.io/badge/Gradio-FF9900?style=for-the-badge)
 
-Scikit-learn
+---
 
-OpenCV
+## 🔥 Featured Projects  
 
-PyTorch
+### 🌏 AI-Powered Tokyo Travel Architect  
+- Multimodal RAG system with semantic retrieval & hallucination control  
+- Gemini + Groq failover architecture  
+- Automatic Google Maps link injection  
+- Hybrid budget reasoning & trip optimization  
 
-TensorFlow
+### 🏋️ AI Kinematics – Exercise Trainer & Form Evaluator  
+- Custom YOLOv8 Pose dataset (1100 frames)  
+- Real-time rep counting & posture correction  
+- Audio coaching + performance analytics  
+- Flask + OpenCV deployment  
 
-AI / ML Expertise :
+### 🧾 AI Complaint Resolution & Root Cause Analysis  
+- Transformers + LSTM  
+- Sentiment Analysis + automated response generation  
+- Flask web app with SQLite backend  
 
-Exploratory Data Analysis (EDA)
+### ♻️ Circular Economy AI Tracker  
+- Ridge Regression + Logistic Regression  
+- Circularity score prediction & waste classification  
+- Full-stack ML deployment  
 
-Statistics
+---
 
-Machine Learning
+## 📈 GitHub Analytics  
 
-Deep Learning
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" height="170"/>
+</p>
 
-Generative AI
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
 
-NLP (Natural Language Processing)
+---
 
-Computer Vision
+## 🏆 Certifications  
 
-RAG (Retrieval-Augmented Generation)
+✔ Machine Learning for Beginners – Analytics Vidhya  
+✔ Generative AI with AWS – Analytics Vidhya  
 
-AI Agents
+---
 
-Development Tools :
+## 🎓 Education  
 
-Visual Studio Code
+🎓 Diploma in Artificial Intelligence & Data Engineering  
+🎓 B.A. Economics (Honours) – IGNOU  
+🎓 ACCA (UK) – 4 Papers Completed  
 
-Google Colab
+---
 
-LangChain
- 
-Web & Deployment :
+## 🌎 Languages  
 
-HTML, CSS, JavaScript
+English | Malayalam  
 
-Flask
+---
 
-Streamlit
+## 👀 Profile Visitors  
 
-Gradio
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views"/>
+</p>
 
-Additional Tools :
+---
 
-Power BI
+## 🐍 Contribution Snake Animation  
 
-Excel
+<p align="center">
+  <img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg" />
+</p>
 
-Business Knowledge :
+---
 
-Accounting
+## 🤝 Let's Connect  
 
-Economics
+If you're interested in AI, Generative AI, RAG systems, or Computer Vision — let's collaborate and build something impactful 🚀  
 
-#### Featured Projects :
+---
 
-🌏 AI-Powered Tokyo Travel Architect (Multimodal RAG System)
-
-Built a production-style multimodal RAG system generating structured, evidence-grounded travel itineraries.
-
-Implemented semantic search, strict prompt grounding, and hallucination reduction strategies.
-
-Designed hybrid budget reasoning, trip duration detection, vector similarity retrieval.
-
-Integrated LLM failover architecture (Gemini + Groq) with automatic Google Maps link injection.
-
-🏋️ AI Kinematics – Exercise Trainer & Form Evaluator (Computer Vision)
-
-Annotated and trained custom YOLOv8 Pose dataset (1100 frames).
-
-Built real-time AI exercise tracker using Flask + OpenCV.
-
-Implemented rep counting, posture correction, performance metrics, and audio coaching.
-
-🧾 AI-Powered Complaint Resolution & Root Cause Analysis (DL + NLP)
-
-Developed complaint classification system using Transformers & LSTM.
-
-Automated sentiment analysis and response generation.
-
-Built scalable Flask application with SQLite backend.
-
-♻️ AI-Driven Circular Economy Tracker (ML + Flask)
-
-Built sustainability prediction system using Ridge & Logistic Regression.
-
-Estimated circularity score & waste classification.
-
-Deployed real-time web app with recommendations.
-
-📊 Retail Sales & Customer Insights Dashboard (Power BI)
-
-Designed interactive dashboard for revenue, segmentation, product insights.
-
-Used DAX, Power Query, drill-through visualizations for business intelligence.
-
-💰 Credit Risk Intelligence Model
-
-Built ML models (Gradient Boosting, Logistic Regression, Gaussian NB).
-
-Performed EDA, preprocessing & evaluation.
-
-Classified customers for safer lending decisions.
-
-🏦 Bank Account Management System
-
-OOP-based Python banking system.
-
-Streamlit-based interactive interface.
-
-🌐 Personal Portfolio Website
-
-Responsive website built using HTML, CSS, JavaScript.
-
-#### Education :
-
-🎓 Diploma in Artificial Intelligence & Data Engineering
-Learn Logic AI (2025–2026) – Completed
-
-🎓 Bachelor of Arts in Economics (Honours)
-IGNOU (2023–Present) – 11/26 exams completed
-
-🎓 ACCA (UK)
-Association of Chartered Certified Accountants (2019–Present) – 4/13 papers completed
-
-📜 Certifications :
-
-Machine Learning for Beginners – Analytics Vidhya
-
-Generative AI with AWS – Analytics Vidhya
-
-🌍 Languages :
-
-English
-
-Malayalam
-
-💡 Soft Skills :
-
-✔ Strong Communication
-✔ Attention to Detail
-✔ Continuous Learning
-✔ Time Management
-
-📈 Current Focus :
-
-Advanced RAG Architectures
-
-Multimodal AI Systems
-
-LLM Fine-tuning
-
-AI Agents & Automation
-
-Production-ready AI Deployment
-
-🤝 Let’s Connect
-
-If you're interested in collaborating on AI projects, discussing research, or professional opportunities, feel free to connect!
-
-<!--
-**Alexander789400/Alexander789400** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+⭐ *Building Intelligent Systems That Solve Real-World Problems*
