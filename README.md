@@ -78,7 +78,11 @@
 ## 📈 GitHub Analytics  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Alexander789400&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=percentile" height="180"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" src="https://github-readme-stats.vercel.app/api?username=Alexander789400&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=percentile" />
+    <source media="(prefers-color-scheme: light)" src="https://github-readme-stats.vercel.app/api?username=Alexander789400&show_icons=true&theme=light&hide_border=true&count_private=true&rank_icon=percentile" />
+    <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Alexander789400&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=percentile" />
+  </picture>
 </p>
 
 <p align="center">
