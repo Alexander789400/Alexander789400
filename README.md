@@ -110,13 +110,10 @@ English | Malayalam
 
 ---
 
-
----
-
-## 🧊 3D Contribution Graph  
+## 📊 Contribution Activity  
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Alexander789400&theme=tokyonight&utcOffset=5.5" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Alexander789400&theme=tokyo-night&hide_border=true&area=true" />
 </p>
 
 ---
