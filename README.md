@@ -40,7 +40,7 @@
 ![NLP](https://img.shields.io/badge/NLP-008080?style=for-the-badge)
 ![Transformers](https://img.shields.io/badge/Transformers-FF9900?style=for-the-badge)
 ![LLMs](https://img.shields.io/badge/LLMs-222222?style=for-the-badge)
-![Agentic AI](https://img.shields.io/badge/Multimodal%20AI-00C7B7?style=for-the-badge)   
+![Agentic AI](https://img.shields.io/badge/AgenticAI%20AI-00C7B7?style=for-the-badge)   
 
 ### 🌐 Web & Deployment  
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask)
