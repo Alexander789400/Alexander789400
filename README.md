@@ -78,7 +78,7 @@
 ## 📈 GitHub Analytics  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Alexander789400&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=percentile&cache_seconds=1800" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Alexander789400&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=percentile&cache_seconds=1800" height="180"/>
 </p>
 
 <p align="center">
