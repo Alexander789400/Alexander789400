@@ -137,12 +137,10 @@ If you're interested in AI, Generative AI, RAG systems, or Computer Vision — l
   <a href="https://alexander789400.github.io/Portfolio-Alexander_Roy/">
     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white"/>
   </a>
-  <a href="Mobile :+91 9048679149">
-  <img src="https://img.shields.io/badge/Call-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
-</a>
 </p>
 
 
 - 📧 Email: alexk.k457roy@gmail.com  
-- 
+- 📞 +91-9048679149
+
 ⭐ *Building Intelligent Systems That Solve Real-World Problems*
