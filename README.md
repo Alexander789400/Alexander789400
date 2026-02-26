@@ -1,5 +1,4 @@
 <h1 align="center">Hi, I'm Alexander Roy</h1>
-<h2 align="center">Aspiring Data Scientist | AI Engineer | Computer Vision & GenAI Enthusiast</h2>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=4000&color=00F7FF&center=true&vCenter=true&width=900&lines=Aspiring+AI+Engineer;Data+Science+Enthusiast;Computer+Vision+Developer;Generative+AI+Builder;Building+Scalable+AI+Systems" />
