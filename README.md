@@ -29,11 +29,18 @@
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch)
 
 ### 👁 Computer Vision  
-![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=opencv)
-YOLOv8 • Pose Estimation • Real-time Tracking  
+![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=opencv&logoColor=white)
+![YOLOv8](https://img.shields.io/badge/YOLOv8-FF6F00?style=for-the-badge)
+![Pose Estimation](https://img.shields.io/badge/Pose%20Estimation-00C853?style=for-the-badge)
+![Real-time Tracking](https://img.shields.io/badge/Real--Time%20Tracking-2962FF?style=for-the-badge)
 
 ### 🤖 AI / Generative AI  
-RAG • AI Agents • NLP • Transformers • LLM Failover Architecture • Multimodal AI  
+![RAG](https://img.shields.io/badge/RAG-FF4B4B?style=for-the-badge)
+![AI Agents](https://img.shields.io/badge/AI%20Agents-6A5ACD?style=for-the-badge)
+![NLP](https://img.shields.io/badge/NLP-008080?style=for-the-badge)
+![Transformers](https://img.shields.io/badge/Transformers-FF9900?style=for-the-badge)
+![LLMs](https://img.shields.io/badge/LLMs-222222?style=for-the-badge)
+![Agentic AI](https://img.shields.io/badge/Multimodal%20AI-00C7B7?style=for-the-badge)   
 
 ### 🌐 Web & Deployment  
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask)
@@ -102,13 +109,6 @@ English | Malayalam
 
 ---
 
-## 👀 Profile Visitors  
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Alexander789400&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views"/>
-</p>
-
----
 
 ## 🐍 Contribution Snake Animation  
 
