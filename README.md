@@ -78,7 +78,7 @@
 ## 📈 GitHub Analytics  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Alexander789400&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=percentile&cache_seconds=1800" height="180"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Alexander789400&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=percentile" height="180"/>
 </p>
 
 <p align="center">
@@ -88,7 +88,6 @@
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Alexander789400&theme=tokyo-night&hide_border=true" />
 </p>
-
 
 ## 🏆 Certifications  
 
