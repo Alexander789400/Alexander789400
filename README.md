@@ -124,5 +124,23 @@ English | Malayalam
 If you're interested in AI, Generative AI, RAG systems, or Computer Vision — let's collaborate and build something impactful 🚀  
 
 ---
+---
+
+## 📬 Contact Me  
+
+<p align="center">
+  <a href="mailto:alexk.k457roy@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/alexander-roy-570456191">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://github.com/Alexander789400">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="https://alexander789400.github.io/Portfolio-Alexander_Roy/">
+    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+  </a>
+</p>
 
 ⭐ *Building Intelligent Systems That Solve Real-World Problems*
