@@ -111,10 +111,12 @@ English | Malayalam
 ---
 
 
-## 🐍 Contribution Snake Animation  
+---
+
+## 🧊 3D Contribution Graph  
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Alexander789400/Alexander789400/output/github-contribution-grid-snake.svg" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Alexander789400&theme=tokyonight&utcOffset=5.5" />
 </p>
 
 ---
